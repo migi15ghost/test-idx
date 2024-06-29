@@ -2,6 +2,25 @@
 
 <PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1>Write Your First C# Code</h1>
 
-Welcome to your new app.
+This challenge will be partially completed on the Microsoft Learn platform. Follow these instructions to complete the challenge:
+
+Go to https://learn.microsoft.com/training/modules/csharp-write-first/ and complete all the tasks in the "Write Your First C# Code" module. This is required to earn the "Write Your First Code Using C#" trophy on Microsoft Learn, and qualify for the certification exam.
+When you are finished, come back and correctly answer the question below.
+</br>
+
+<button class="btn btn-primary" @onclick="RunCode">Run:</button>
+
+<p role="status">Result: @answer</p>
+
+
+@code {
+    private string answer = "";
+
+    private void RunCode()
+    {
+        //answer = "Hello World!";
+        //Console.WriteLine(answer);
+    }
+}

@@ -27,3 +27,4 @@
 /home/user/first-web-page/obj/Debug/net8.0/myapp.pdb
 /home/user/first-web-page/obj/Debug/net8.0/myapp.genruntimeconfig.cache
 /home/user/first-web-page/obj/Debug/net8.0/ref/myapp.dll
+/home/user/first-web-page/obj/Debug/net8.0/myapp.sourcelink.json
