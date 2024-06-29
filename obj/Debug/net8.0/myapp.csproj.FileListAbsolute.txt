@@ -1,3 +1,9 @@
+/home/user/first-web-page/obj/Debug/net8.0/myapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/first-web-page/obj/Debug/net8.0/myapp.AssemblyInfoInputs.cache
+/home/user/first-web-page/obj/Debug/net8.0/myapp.AssemblyInfo.cs
+/home/user/first-web-page/obj/Debug/net8.0/myapp.csproj.CoreCompileInputs.cache
+/home/user/first-web-page/obj/Debug/net8.0/myapp.MvcApplicationPartsAssemblyInfo.cache
+/home/user/first-web-page/obj/Debug/net8.0/myapp.sourcelink.json
 /home/user/first-web-page/bin/Debug/net8.0/appsettings.Development.json
 /home/user/first-web-page/bin/Debug/net8.0/appsettings.json
 /home/user/first-web-page/bin/Debug/net8.0/myapp.staticwebassets.runtime.json
@@ -6,11 +12,6 @@
 /home/user/first-web-page/bin/Debug/net8.0/myapp.runtimeconfig.json
 /home/user/first-web-page/bin/Debug/net8.0/myapp.dll
 /home/user/first-web-page/bin/Debug/net8.0/myapp.pdb
-/home/user/first-web-page/obj/Debug/net8.0/myapp.GeneratedMSBuildEditorConfig.editorconfig
-/home/user/first-web-page/obj/Debug/net8.0/myapp.AssemblyInfoInputs.cache
-/home/user/first-web-page/obj/Debug/net8.0/myapp.AssemblyInfo.cs
-/home/user/first-web-page/obj/Debug/net8.0/myapp.csproj.CoreCompileInputs.cache
-/home/user/first-web-page/obj/Debug/net8.0/myapp.MvcApplicationPartsAssemblyInfo.cache
 /home/user/first-web-page/obj/Debug/net8.0/staticwebassets.build.json
 /home/user/first-web-page/obj/Debug/net8.0/staticwebassets.development.json
 /home/user/first-web-page/obj/Debug/net8.0/staticwebassets/msbuild.myapp.Microsoft.AspNetCore.StaticWebAssets.props
@@ -27,4 +28,3 @@
 /home/user/first-web-page/obj/Debug/net8.0/myapp.pdb
 /home/user/first-web-page/obj/Debug/net8.0/myapp.genruntimeconfig.cache
 /home/user/first-web-page/obj/Debug/net8.0/ref/myapp.dll
-/home/user/first-web-page/obj/Debug/net8.0/myapp.sourcelink.json

@@ -3,17 +3,18 @@
 
 <PageTitle>Counter</PageTitle>
 
-<h1>Counter</h1>
+<h1>Write Your First C# Code </h1>
 
-<p role="status">Current count: @currentCount</p>
+<p role="status">Answer: @inc</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick="RunCode">Run</button>
 
 @code {
-    private int currentCount = 0;
+    private int answer = 5;
+    private string inc = "HELLO WORLD!" ;
 
-    private void IncrementCount()
+    private void RunCode()
     {
-        currentCount++;
+        inc = "Congratulations";
     }
 }
