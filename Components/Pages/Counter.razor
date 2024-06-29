@@ -3,15 +3,24 @@
 
 <PageTitle>Counter</PageTitle>
 
-<h1>Write Your First C# Code </h1>
+<h1>C# </h1>
 
 <p role="status">Answer: @inc</p>
 
 <button class="btn btn-primary" @onclick="RunCode">Run</button>
+<h3>Store and Retrieve Data Using Literal and Variable Valus in C# </h3>
+<p>
+    Variables are temporary values you store in the computer's memory.
+    Before you can use a Variable, you have to declare it.
+    To declare a variable, you first select a data type for the kind of data you want to store, and then give the variable a name that follows the rules.    
+</p>
 
 @code {
     private int answer = 5;
     private string inc = "HELLO WORLD!" ;
+    private char userOption;
+    private decimal particlesPerMillion;
+    private bool processedCustomer;
 
     private void RunCode()
     {

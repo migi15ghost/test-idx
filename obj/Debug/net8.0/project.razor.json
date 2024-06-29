@@ -17,8 +17,13 @@
   "RootNamespace": "myapp",
   "Documents": [
     {
-      "FilePath": "/home/user/first-web-page/Components/Pages/Error.razor",
-      "TargetPath": "Components\\Pages\\Error.razor",
+      "FilePath": "/home/user/first-web-page/Components/Pages/Home.razor",
+      "TargetPath": "Components\\Pages\\Home.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/user/first-web-page/Components/App.razor",
+      "TargetPath": "Components\\App.razor",
       "FileKind": "component"
     },
     {
@@ -27,8 +32,8 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "/home/user/first-web-page/Components/App.razor",
-      "TargetPath": "Components\\App.razor",
+      "FilePath": "/home/user/first-web-page/Components/Layout/MainLayout.razor",
+      "TargetPath": "Components\\Layout\\MainLayout.razor",
       "FileKind": "component"
     },
     {
@@ -42,23 +47,18 @@
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "/home/user/first-web-page/Components/Pages/Weather.razor",
-      "TargetPath": "Components\\Pages\\Weather.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "/home/user/first-web-page/Components/Routes.razor",
       "TargetPath": "Components\\Routes.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/home/user/first-web-page/Components/Layout/MainLayout.razor",
-      "TargetPath": "Components\\Layout\\MainLayout.razor",
+      "FilePath": "/home/user/first-web-page/Components/Pages/Weather.razor",
+      "TargetPath": "Components\\Pages\\Weather.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/home/user/first-web-page/Components/Pages/Home.razor",
-      "TargetPath": "Components\\Pages\\Home.razor",
+      "FilePath": "/home/user/first-web-page/Components/Pages/Error.razor",
+      "TargetPath": "Components\\Pages\\Error.razor",
       "FileKind": "component"
     }
   ],
